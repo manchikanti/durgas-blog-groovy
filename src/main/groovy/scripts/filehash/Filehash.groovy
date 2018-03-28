@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 package scripts.filehash
 
 import java.security.DigestInputStream
